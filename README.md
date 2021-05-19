@@ -5,6 +5,7 @@ I considered six features to build these model-
   > HEALTHY LIFE EXPECTANCY
   > FREEDOM TO MAKE LIFE CHOICES
   > GENEROSITY
+  > PERCEPTION OF CORRUPTION 
 Since there was multicollinearity in data, and all six features were importanrt so I used Ridge regression and Principal Component Regression(PCR) techniques to reduce multicolliniarity and build two different models.
 I checked and resolved various other issues with data like outliers, heteroscedasticity etc.
 And finally I compared efficiency of Ridge regression model and Principal Component regression(PCR) model.
