@@ -1,5 +1,5 @@
-This project aims to build linear models for predicting World Happiness Scores(Ladder Score) of countries. 
-I considered six features to build these model-
+This project aims to build linear models for predicting World Happiness Scores(Ladder Score) of countries based on six features considered by UN to rank nations. 
+Six features considered to build these models-
   > LOGGED GDP PER CAPITA
   > SOCIAL SUPPORT
   > HEALTHY LIFE EXPECTANCY
